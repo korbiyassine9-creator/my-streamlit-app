@@ -467,9 +467,8 @@ def section_header(icon, title):
     """, unsafe_allow_html=True)
 
 # ── Tabs ──────────────────────────────────────────────────
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
+tab1, tab3, tab4, tab5 = st.tabs([
     t("tab_live",     lang),
-    t("tab_whatif",   lang),
     t("tab_history",  lang),
     t("tab_analysis", lang),
     t("tab_tanks",    lang),
