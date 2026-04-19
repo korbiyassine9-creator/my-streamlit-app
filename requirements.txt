@@ -1,6 +1,4 @@
 streamlit
 folium
+streamlit-folium
 pandas
-numpy
-streamlit_folium
-matplotlib
